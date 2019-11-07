@@ -6,5 +6,6 @@ public class Test {
         System.out.println("lalala");
         System.out.println("嗯");
         System.out.println("ssss");
+        System.out.println("ss");
     }
 }
